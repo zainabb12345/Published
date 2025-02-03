@@ -59,7 +59,7 @@
 
 ## DeFi
 
-- [DeFi: Categories Explained](https://xord.solutions/publications/decentralized-finance-categories-explained/)
+- [DeFi: Categories Explained](https://xord.com/publications/decentralized-finance-categories-explained/)
 - [Flash Ecosystem: An In-depth Explanation](https://xord.com/research/flash-ecosystem-an-in-depth-explanation/)
 - [Aave Protocol](https://xord.solutions/publications/aave-protocol-explained/)
 
