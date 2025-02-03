@@ -61,13 +61,13 @@
 
 - [DeFi: Categories Explained](https://xord.com/publications/decentralized-finance-categories-explained/)
 - [Flash Ecosystem: An In-depth Explanation](https://xord.com/research/flash-ecosystem-an-in-depth-explanation/)
-- [Aave Protocol](https://xord.solutions/publications/aave-protocol-explained/)
+- [Aave Protocol](https://xord.com/publications/aave-protocol-explained/)
 
 ## Uniswap
 
 - [Uniswap V2 Protocol](https://xord.com/research/uniswap-v2-protocol-lets-dive-in/)
 - [Uniswap v3 Protocol](https://xord.com/research/uniswap-v3-power-to-liquidity-providers/)
-- [Uniswap: UNI token distribution](https://xord.solutions/publications/case-study-uniswap-uni-tokens-distribution/)
+- [Uniswap: UNI token distribution](https://xord.com/publications/case-study-uniswap-uni-tokens-distribution/)
 - [Uniswap v4: Powering up the Devs](https://blockapex.io/wp-admin/post.php?post=9483&action=edit)
 
 ## **Contributions**
@@ -77,20 +77,20 @@
 
 ## Graph Network
 
-- [Introduction to the “Graph Network”](https://xord.solutions/publications/introduction-to-the-graph-network-part-i/)
-- [The Graph Network: Deploying the subgraph](https://xord.solutions/publications/the-graph-network-part-ii-deploying-the-subgraph/)
+- [Introduction to the “Graph Network”](https://xord.com/publications/introduction-to-the-graph-network-part-i/)
+- [The Graph Network: Deploying the subgraph](https://xord.com/publications/the-graph-network-part-ii-deploying-the-subgraph/)
 
 ## Case Studies
 
-- [Claim dApp](https://xord.solutions/publications/case-study-claim-dapp/)
+- [Claim dApp](https://xord.com/publications/case-study-claim-dapp/)
 - [Gas tokens: What happens after SELF-DESTRUCT is no-more](https://xord.com/research/gas-tokens-analysis-the-future/)
 
 ## More
 
 - [Chainlink](https://xord.com/research/chainlink-an-encyclopedic-study/)
-- [Axion Network](https://xord.solutions/publications/axion-network-incident-report/)
-- [Grin Protocol](https://xord.solutions/publications/51-attack-on-grin-protocol/)
-- [Filecoin Network](https://xord.solutions/publications/filecoin-network-dawn-of-decentralized-storage/)
+- [Axion Network](https://xord.com/publications/axion-network-incident-report/)
+- [Grin Protocol](https://xord.com/publications/51-attack-on-grin-protocol/)
+- [Filecoin Network](https://xord.com/publications/filecoin-network-dawn-of-decentralized-storage/)
 - KZG Ceremony: https://xord.com/proto-danksharding-and-kzg-ceremony/
 - IBC - https://xord.com/research/ibc-sending-receiving-data-packages/
 - [Worldcoin: The Iris Scan Debate Empowering Or Exploitative?](https://blockapex.io/research/worldcoin-the-iris-scan-debate-empowering-or-exploitative/)
