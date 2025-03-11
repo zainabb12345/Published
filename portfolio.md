@@ -64,7 +64,7 @@
 - [Why Use SocialFi? The Future of Social Networks and Finance](https://blockapex.io/why-use-socialfi/)
 - [Blockchain Bridges 101: How Do They Work?](https://blockapex.io/blockchain-bridges/)
 - [17 Best Crypto Launchpads and IDO Platforms to Watch in 2024](https://blockapex.io/best-crypto-launchpads-and-ido-platform/)
-- [**Subnets on TAO: Scaling Bittensor’s Decentralized AI Network](https://blockapex.io/subnets-on-tao-scaling-bittensors-decentralized-ai-network/)
+- [Subnets on TAO: Scaling Bittensor’s Decentralized AI Network](https://blockapex.io/subnets-on-tao-scaling-bittensors-decentralized-ai-network/)
 - [Web3 Social Platforms – Why haven’t they taken off?](https://blockapex.io/web3-social-platforms-why-havent-they-taken-off/)
 - [Why DePIN Struggles to Achieve Mass Adoption?](https://blockapex.io/why-depin-struggles-to-achieve-mass-adoption/)
 - [Chainlink](https://xord.com/research/chainlink-an-encyclopedic-study/)
