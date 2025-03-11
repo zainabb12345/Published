@@ -1,8 +1,12 @@
-[Web3 Social Platforms – Why haven’t they taken off?](https://blockapex.io/web3-social-platforms-why-havent-they-taken-off/)
+## **General Work**
 
-[17 Best Crypto Launchpads and IDO Platforms to Watch in 2024](https://blockapex.io/best-crypto-launchpads-and-ido-platform/)
+[**Why DePIN Struggles to Achieve Mass Adoption?**](https://blockapex.io/why-depin-struggles-to-achieve-mass-adoption/)
+
+[**Is Solana Ready For TradFi?**](https://blockapex.io/is-solana-ready-for-tradfi/)
 
 [How gas works in blockchain?](https://blockapex.io/how-gas-works-in-blockchain/)
+
+[Web3 Social Platforms – Why haven’t they taken off?](https://blockapex.io/web3-social-platforms-why-havent-they-taken-off/)
 
 [What is the Arbitrum Bridge and How to Use it?](https://www.notion.so/Portfolio-ab00d7ee7b73458eb193544706d0c5ed?pvs=21)
 
@@ -13,10 +17,6 @@
 [**Types of Token Launches**](https://blockapex.io/types-of-token-launches/)
 
 [**Why Use SocialFi? The Future of Social Networks and Finance**](https://blockapex.io/why-use-socialfi/)
-
-[**Is Solana Ready For TradFi?**](https://blockapex.io/is-solana-ready-for-tradfi/)
-
-[**Why DePIN Struggles to Achieve Mass Adoption?**](https://blockapex.io/why-depin-struggles-to-achieve-mass-adoption/)
 
 [**Advanced Cryptographic Techniques in Blockchain**](https://blockapex.io/advanced-cryptographic-techniques/)
 
@@ -33,6 +33,8 @@
 [**Payment Tokenization 101: What It Is and How It Benefits Businesses**](https://blockapex.io/payment-tokenization-101/)
 
 [**Blockchain Bridges 101: How Do They Work?**](https://blockapex.io/blockchain-bridges/)
+
+[17 Best Crypto Launchpads and IDO Platforms to Watch in 2024](https://blockapex.io/best-crypto-launchpads-and-ido-platform/)
 
 [**What Are Bitcoin Atomicals and ARC20?**](https://blockapex.io/what-are-bitcoin-atomicals-and-arc20/)
 
